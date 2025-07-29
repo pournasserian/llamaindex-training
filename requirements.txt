@@ -3,3 +3,4 @@ llama-index
 llama-index-llms-openrouter
 llama-index-embeddings-huggingface
 llama-index-tools-yahoo-finance
+llama_index.tools.brave_search
